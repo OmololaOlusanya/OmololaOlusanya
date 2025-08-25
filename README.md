@@ -9,9 +9,8 @@
 
 
 <h3>🛠 Tech. Stacks</h3>
- 
--  💻 Web Application Development: React JS, Typescript, Next Js, Material UI, Tailwind CSS, Bootstrap, etc.
 -  ⁠💻 Mobile Application Development: Flutter, React Native
+-  💻 Web Application Development: React JS, Typescript, Next Js, Material UI, Tailwind CSS, Bootstrap, etc.
 -  ⁠⁠💻 Web Unit Testing: React Testing Library, Jest
 -  💻 Integrations : Rest APIs, GraphQL, Third Party APIs e.g. OAuth, Google APIs, etc.
 -  💻 Backend Development: Python, Django
